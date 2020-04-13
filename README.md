@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+
+A pattern where a function takes a component as a function and returns a new component.
+
+### Example :
+
+const Ironman = withSuit( Tony Stark )
 
 ## Available Scripts
 
